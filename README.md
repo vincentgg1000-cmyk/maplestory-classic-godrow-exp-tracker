@@ -1,6 +1,9 @@
 # GODROW EXP Tracker
 
 ### MapleStory Classic EXP Tracker | 메이플스토리 클래식 경험치 측정기
+<img width="984" height="278" alt="image" src="https://github.com/user-attachments/assets/ba6b97ea-c52b-4c1a-83f5-41c45caa83d9" />
+<img width="978" height="275" alt="image" src="https://github.com/user-attachments/assets/ca2e71d9-3bd1-48cb-927c-9b838cd40083" />
+
 
 **GODROW EXP Tracker** is a real-time EXP tracking tool for MapleStory Classic on Windows.
 
